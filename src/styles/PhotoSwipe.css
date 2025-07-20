@@ -1,0 +1,16 @@
+.pswp__zoom-wrap {
+  transform: translate3d(53px, 24px, 0px) scale3d(1, 1, 1) !important;
+}
+
+.pswp__dynamic-caption {
+  margin-top: 0;
+  top: 20px !important;
+  left: 50% !important;
+  width: 45vw;
+  max-width: 45vw;
+}
+
+.pswp__img {
+  width: 45vw !important;
+  max-width: 45vw !important;
+}
